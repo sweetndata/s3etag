@@ -1,0 +1,11 @@
+[package]
+name = "s3etag"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+md5 = "0.7"
+rayon = "1.5.3"
+num_cpus = "1.13"
+indicatif = "0.17"
+hex = "0.4"
